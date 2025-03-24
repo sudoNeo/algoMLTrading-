@@ -1,0 +1,8 @@
+pandas
+numpy
+yfinance
+pandas-ta
+xgboost
+scikit-learn
+imbalanced-learn
+alpaca-trade-api
