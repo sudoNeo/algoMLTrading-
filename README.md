@@ -1,6 +1,6 @@
 # algoMLTrading
 
-A modular algorithmic trading system for equities using a combination of machine learning, technical strategies, and risk management. Supports historical backtesting and live/paper trading via Alpaca API.
+A modular algorithmic **Paper** trading system for equities using a combination of machine learning, technical strategies, and risk management. Supports historical backtesting and live/paper trading via Alpaca API.
 
 ## Features
 
